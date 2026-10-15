@@ -4,3 +4,5 @@ Ce dépôt rassemble la documentation réseau de la salle D116 :
 plan d'adressage et inventaire des postes.
 
 Copie de travail préparée pour : aespinasse
+
+Relu sur GitHub par esverys-e
